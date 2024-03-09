@@ -1,15 +1,6 @@
 
 import mysql.connector
 
-con = mysql.connector.connect(host='localhost',
-                            database='database',
-                            user='root',
-                            password='your password')
-
-# Function To Check if Employee with
-# given Id Exist or No
-import mysql.connector
-
 connection = mysql.connector.connect(host='localhost',
                                      database='database',
                                      user='root',
