@@ -155,8 +155,8 @@ def Display_Employees():
 
 # menu function to display the menu
 def menu():
-    print("Welcome to Employee Management Record")
-    print("Press ")
+    print("Welcome to Employee Management Record System")
+    print("Posible Operations are listed below")
     print("1 to Add Employee")
     print("2 to Remove Employee ")
     print("3 to Promote Employee")
